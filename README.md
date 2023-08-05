@@ -1,5 +1,5 @@
-
-#💫 About Me:
+# Hi, I'm Rishabh Kumrawat! 👋
+# 💫 About me :
 🌱 I’m currently learning ReactJs & Spring Boot<br>💬 Ask me about Java, JavaScript, DSA and MERN Stack<br>📫 How to reach me: rishabhkumrawat40@gmail.com
 
 
