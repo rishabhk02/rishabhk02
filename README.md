@@ -1,8 +1,9 @@
-<h1 align="center">Hi 👋, I'm Rishabh Kumrawat</h1>
+<h1 align="left">Hi 👋, I'm Rishabh Kumrawat</h1>
 
 # 💫 About me :
 🌱 I’m currently learning ReactJs & Spring Boot<br>💬 Ask me about Java, JavaScript, DSA and MERN Stack<br>📫 How to reach me: rishabhkumrawat40@gmail.com
 
+<p align='right'><img src="https://w7.pngwing.com/pngs/504/952/png-transparent-programmer-computer-programming-it-furniture-reading-computer.png" alt="Img" height=300px width=300px/></p>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/rishi_kumrawat_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rishabh-kumrawat) 
