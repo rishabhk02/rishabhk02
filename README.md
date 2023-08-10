@@ -3,7 +3,7 @@
 <div style="display: flex; align-items: center;">
     <div style="flex: 1;">
         <h1>💫 About me :</h1>
-🌱 I’m currently learning ReactJs & Spring Boot<br>💬 Ask me about Java, JavaScript, DSA and MERN Stack<br>📫 How to reach me: rishabhkumrawat40@gmail.com
+🌱 I’m currently learning ReactJs & Spring Boot<br>💬 Ask me about Java, JavaScript, DSA and MERN Stack<br>📫 How to reach me: **rishabhkumrawat40@gmail.com**
     </div>
     <div style="flex: 1; align: right;">
        <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Img" height=300px width=400px/>
