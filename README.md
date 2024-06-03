@@ -12,8 +12,10 @@
 - 💬 Ask me about **DSA, MERN Stack.**
 
 - 📫 How to reach me **rishabhkumrawat40@gmail.com**
+  
+- 💼 Vist my portfolio at <a href="https://rishabhkumrawat.in/" target="blank">**rishabhkumrawat.in**</a>
 
-- ⚡ Fun fact **I am self-taught tech guy**
+- ⚡ Fun fact **I love solving coding challenges on LeetCode in my spare time.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
