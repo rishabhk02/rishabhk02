@@ -5,7 +5,7 @@
   <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Img" height="300px" width="400px"/>
 </p>
 
-- 🔭 I’m currently working as **Full Stack Developer at Levon Techno Solutions**
+- 🔭 I’m currently working as **Software Engineer**
 
 - 🌱 I’m currently learning **Cloud Services such as AWS.**
 
