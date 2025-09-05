@@ -7,7 +7,7 @@
 
 - 🔭 I'm currently working as **Software Engineer**
 
-- 🌱 I'm currently learning **Cloud Services such as AWS.**
+- 🌱 I'm currently exploring **Devops.**
 
 - 💬 Ask me about **Backend engineering beyond the CRUD.**
 
