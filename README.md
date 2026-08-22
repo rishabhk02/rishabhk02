@@ -11,18 +11,11 @@
 
 - 💬 Ask me about **Backend engineering beyond the CRUD.**
 
-- 📫 How to reach me **rishabhkumrawat40@gmail.com**
-  
-- 💼 Visit my portfolio at <a href="https://rishabhkumrawat.in/" target="blank">**rishabhkumrawat.in**</a>
-
 - ⚡ Fun fact **I love solving coding challenges on LeetCode in my spare time.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/rishabh-kumrawat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishabh-kumrawat" height="30" width="40" /></a>
-<a href="https://instagram.com/rishi_kumrawat_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rishi_kumrawat_" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/rishi0204" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="rishi0204" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/rishabhk02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rishabhk02" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/rishabhk02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rishabhk02" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/rishabhk02/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="rishabhk02/profile" height="30" width="40" /></a>
 </p>
@@ -82,14 +75,9 @@
 </p>
 
 ## 🏆 GitHub Trophies
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rishabhk02" alt="rishabhk02" /></a> </p>
+<p align="left"><img src="https://github-profile-repo.vercel.app/?username=rishabhk02&theme=light" alt="rishabhk02" /></p>
 
 ## 📊 GitHub Stats
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishabhk02&show_icons=true&locale=en&layout=compact" alt="rishabhk02" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rishabhk02&show_icons=true&locale=en" alt="rishabhk02" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishabhk02&" alt="rishabhk02" /></p>
 
 ## 👀 Profile Views
